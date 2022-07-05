@@ -22,12 +22,13 @@ section{
 .top-cont{
     display: flex;
     align-items: center;
-    margin-left: 7%;
-    margin-right: 7%;
+    margin-left: 6%;
+    margin-right: 6%;
 }
 .top-left{
+    position:relative;
     color: #575757;
-   
+    width:41vw;
 }
 .top-left p{
     font-size:20px;
@@ -35,6 +36,7 @@ section{
     color: #828282;
     letter-spacing: -0.02em;
 }
+
 .link-button{
     padding: 24px 32px;
     font-weight: 600;
@@ -48,6 +50,10 @@ section{
     border-radius: 100px;
     
 
+}
+.top-right{
+    position: relative;
+    left:-6%;
 }
 .about{
     background-image: url(images/shapes/7.png);
