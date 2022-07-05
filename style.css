@@ -20,13 +20,13 @@ section{
     margin-bottom: 100px;
 }
 .top-cont{
+    display: flex;
     align-items: center;
-    
+    margin-left: 7%;
+    margin-right: 7%;
 }
 .top-left{
     color: #575757;
-    width: 100%;
-    margin-left: 100px;
    
 }
 .top-left p{
@@ -49,10 +49,6 @@ section{
     
 
 }
-.topimg{
-    width: 50%;
-    padding-right: 100px;
-}
 .about{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
@@ -65,7 +61,7 @@ section{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 45%;
     
 }
 .abttext{
@@ -91,7 +87,6 @@ section{
 
 .card-cont{
     display:flex;
-    justify-content:space-between;
     margin-left:9%;
     margin-right: 9%;
 }
