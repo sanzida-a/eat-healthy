@@ -1,13 +1,12 @@
 
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Montserrat';
     margin: 0;
 }
 h1{
     font-size: 60px;
 }
 h3{
-    font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
     font-size: 40px;
@@ -29,7 +28,6 @@ section{
 .top-left{
     color: #575757;
     width: 100%;
-    font-family: 'Montserrat', sans-serif;
     margin-left: 100px;
     margin-right: 0;
    
@@ -43,7 +41,6 @@ section{
 }
 .link-button{
     padding: 24px 32px;
-    font-family: 'Montserrat';
     font-weight: 600;
     font-size: 18px;
     line-height: 130%;
@@ -124,7 +121,6 @@ section{
 }
 
 .socialtext h2{
-    font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
     font-size: 48px;
