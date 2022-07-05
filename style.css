@@ -20,7 +20,7 @@ h3{
 }
 section{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 .topcont{
     align-items: center;
@@ -113,4 +113,30 @@ section{
     margin-left: auto;
     margin-right: auto;
     width: 100%;
+}
+.social{
+    justify-content: space-between;
+    margin-left:10%;
+    margin-right: 10%;
+    box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 30px;
+    padding: 2% 7% 2% 7%;
+}
+
+.socialtext h2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+    color: #18191F;
+}
+footer{
+    text-align: center;
+    color:aliceblue;
+    display: block;
+    background-color: #18191F;
+    padding-bottom: 7%;
+    padding-top: 1%;
+
 }
