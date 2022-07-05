@@ -52,8 +52,7 @@ section{
 
 }
 .top-right{
-    position: relative;
-    left:-6%;
+    margin-left:-6%;
 }
 .about{
     background-image: url(images/shapes/7.png);
